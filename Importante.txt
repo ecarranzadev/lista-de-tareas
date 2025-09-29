@@ -1,0 +1,2 @@
+Este archivo fue creado desde github para simular despues hacer un pull y 
+tener los cambios en local
